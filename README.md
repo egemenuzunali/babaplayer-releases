@@ -10,7 +10,7 @@ Downloads for BABAPLAYER IPTV outside the app stores. The app's source is privat
 3. Open Downloader, enter **babaplayer.com/firetv** and install.
 
 The latest Android TV build is always at
-`https://github.com/egemenuzunali/babaplayer-releases/releases/latest/download/babaplayer-tv.apk`.
+`https://github.com/egemenuzunali/babaplayer-releases/releases/download/firetv/babaplayer-tv.apk`.
 
 Needs Fire OS 6 or newer (Fire TV Stick 2nd generation and later). Sideloaded copies do not update by themselves: install the new file the same way.
 Subscriptions are managed at https://babaplayer.com.
