@@ -5,7 +5,7 @@ Downloads for BABAPLAYER IPTV outside the app stores. The app's source is privat
 ## Mac
 
 Download the newest **BABAPLAYER IPTV for Mac** from [Releases](https://github.com/egemenuzunali/babaplayer-releases/releases/latest): `arm64` for Apple Silicon (M1 and later), `x64` for Intel.
-Until a notarized build ships, open it once via **System Settings → Privacy & Security → Open Anyway**.
+The app is signed and notarized by Apple: it opens normally and updates itself automatically.
 
 ## Fire TV / Fire Stick
 
